@@ -1,2 +1,3 @@
 generic_mutual_information_routines.py
 *.csv
+__pycache__/
